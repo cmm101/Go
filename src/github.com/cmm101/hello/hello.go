@@ -9,6 +9,7 @@ func main() {
 	fmt.Printf("Hello, World!")
 	fmt.Printf("Testing Commit")
 	fmt.Printf("Test")
-	multifile.HelloWorld()
-	multifile.HelloWorld()
+	multifile.Helloworld()
+	multifile.Helloworld()
+
 }
